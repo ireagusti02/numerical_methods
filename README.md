@@ -10,4 +10,4 @@ This is a numerical methods MATLAB repository based on the implementations requi
 - Runge-Kutta4
 - Singular Value Decomposition
 
-Some of the code is based of Dr. Jeff Blanchard's instruction and my collaboration with Jonah and Owen. The upload is still in progress since I have to retouch it and comment it to be presentable.
+Some of the code is based of Dr. Jeff Blanchard's instruction and my collaboration with Jonah and Owen. The upload is still in progress since I have to retouch it and comment it to be presentable. When that is done I will be creating a python version of all of these.
