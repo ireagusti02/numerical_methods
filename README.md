@@ -1,3 +1,5 @@
+## Numerical Methods
+
 This is a numerical methods MATLAB repository based on the implementations required for a Numerical Analysis course I took last fall. Within the available methods we have:
 
 - Bisection Method
